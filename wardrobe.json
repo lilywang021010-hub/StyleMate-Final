@@ -1,0 +1,654 @@
+[
+    {
+        "name": "White shirt",
+        "category": "top",
+        "weather": "any",
+        "occasion": "formal",
+        "gender": "unisex",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "name": "Black trousers",
+        "category": "bottom",
+        "weather": "any",
+        "occasion": "formal",
+        "gender": "unisex",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "name": "Sneakers",
+        "category": "shoes",
+        "weather": "dry",
+        "occasion": "casual",
+        "gender": "unisex",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "sporty"
+        ]
+    },
+    {
+        "name": "Red T-shirt",
+        "category": "top",
+        "weather": "dry",
+        "occasion": "casual",
+        "gender": "unisex",
+        "styles": [
+            "casual",
+            "sporty"
+        ]
+    },
+    {
+        "name": "Blue jeans",
+        "category": "bottom",
+        "weather": "any",
+        "occasion": "casual",
+        "gender": "unisex",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "name": "Black shoes",
+        "category": "shoes",
+        "weather": "any",
+        "occasion": "formal",
+        "gender": "unisex",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "White T-shirt",
+        "weather": "dry",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Blue jeans",
+        "weather": "any",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "White sneakers",
+        "weather": "dry",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "sporty"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "Pink knit sweater",
+        "weather": "any",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Black jeans",
+        "weather": "any",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Canvas sneakers",
+        "weather": "dry",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "sporty"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "Cream blouse",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Black work trousers",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Black leather shoes",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "White blouse",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Navy trousers",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Black heels",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "Silk date blouse",
+        "weather": "dry",
+        "occasion": "date",
+        "styles": [
+            "casual",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Long floral skirt",
+        "weather": "dry",
+        "occasion": "date",
+        "styles": [
+            "casual",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Low heels",
+        "weather": "dry",
+        "occasion": "date",
+        "styles": [
+            "casual",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "dress",
+        "name": "Red party dress",
+        "weather": "dry",
+        "occasion": "party",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Silver high heels",
+        "weather": "dry",
+        "occasion": "party",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "top",
+        "name": "Sport T-shirt",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "bottom",
+        "name": "Black leggings",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Running shoes",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "dress",
+        "name": "Long wedding gown",
+        "weather": "any",
+        "occasion": "wedding",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Ivory wedding heels",
+        "weather": "any",
+        "occasion": "wedding",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "dress",
+        "name": "Yellow beach sundress",
+        "weather": "dry",
+        "occasion": "beach",
+        "styles": [
+            "casual",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "women",
+        "category": "shoes",
+        "name": "Brown sandals",
+        "weather": "dry",
+        "occasion": "beach",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Navy T-shirt",
+        "weather": "dry",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Khaki shorts",
+        "weather": "dry",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "White sneakers",
+        "weather": "dry",
+        "occasion": "casual",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "sporty"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Blue sweatshirt",
+        "weather": "any",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Blue jeans",
+        "weather": "any",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Canvas sneakers",
+        "weather": "dry",
+        "occasion": "university",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "sporty"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "White work shirt",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Charcoal chinos",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Brown leather shoes",
+        "weather": "any",
+        "occasion": "work",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "White formal shirt",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Black formal trousers",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Black leather shoes",
+        "weather": "any",
+        "occasion": "formal",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Casual date shirt",
+        "weather": "dry",
+        "occasion": "date",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Dark jeans",
+        "weather": "any",
+        "occasion": "date",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Brown leather shoes",
+        "weather": "dry",
+        "occasion": "date",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Party shirt",
+        "weather": "dry",
+        "occasion": "party",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Black jeans",
+        "weather": "any",
+        "occasion": "party",
+        "styles": [
+            "casual",
+            "minimal",
+            "cute",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Black leather shoes",
+        "weather": "dry",
+        "occasion": "party",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Sport training shirt",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Running shorts",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Running shoes",
+        "weather": "dry",
+        "occasion": "sport",
+        "styles": [
+            "sporty"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Wedding suit jacket",
+        "weather": "any",
+        "occasion": "wedding",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Wedding suit trousers",
+        "weather": "any",
+        "occasion": "wedding",
+        "styles": [
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Polished leather shoes",
+        "weather": "any",
+        "occasion": "wedding",
+        "styles": [
+            "minimal",
+            "elegant"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "top",
+        "name": "Linen beach shirt",
+        "weather": "dry",
+        "occasion": "beach",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "bottom",
+        "name": "Linen beach shorts",
+        "weather": "dry",
+        "occasion": "beach",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    },
+    {
+        "gender": "men",
+        "category": "shoes",
+        "name": "Leather sandals",
+        "weather": "dry",
+        "occasion": "beach",
+        "styles": [
+            "casual",
+            "minimal"
+        ]
+    }
+]

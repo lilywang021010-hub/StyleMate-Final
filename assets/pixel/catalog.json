@@ -1,0 +1,242 @@
+{
+  "women": {
+    "white shirt": [
+      "base",
+      2
+    ],
+    "black trousers": [
+      "base",
+      2
+    ],
+    "sneakers": [
+      "base",
+      1
+    ],
+    "red t-shirt": [
+      "variants",
+      1
+    ],
+    "blue jeans": [
+      "base",
+      1
+    ],
+    "black shoes": [
+      "variants",
+      2
+    ],
+    "white t-shirt": [
+      "base",
+      1
+    ],
+    "pink knit sweater": [
+      "variants",
+      0
+    ],
+    "black jeans": [
+      "variants",
+      1
+    ],
+    "canvas sneakers": [
+      "variants",
+      1
+    ],
+    "cream blouse": [
+      "variants",
+      2
+    ],
+    "black work trousers": [
+      "base",
+      2
+    ],
+    "black leather shoes": [
+      "variants",
+      2
+    ],
+    "white blouse": [
+      "base",
+      2
+    ],
+    "navy trousers": [
+      "variants",
+      2
+    ],
+    "black heels": [
+      "base",
+      0
+    ],
+    "silk date blouse": [
+      "base",
+      0
+    ],
+    "long floral skirt": [
+      "variants",
+      0
+    ],
+    "low heels": [
+      "variants",
+      0
+    ],
+    "red party dress": [
+      "variants",
+      3
+    ],
+    "silver high heels": [
+      "variants",
+      3
+    ],
+    "sport t-shirt": [
+      "base",
+      4
+    ],
+    "black leggings": [
+      "base",
+      4
+    ],
+    "running shoes": [
+      "base",
+      4
+    ],
+    "long wedding gown": [
+      "variants",
+      5
+    ],
+    "ivory wedding heels": [
+      "variants",
+      5
+    ],
+    "yellow beach sundress": [
+      "base",
+      5
+    ],
+    "brown sandals": [
+      "base",
+      5
+    ],
+    "white sneakers": [
+      "base",
+      1
+    ]
+  },
+  "men": {
+    "white shirt": [
+      "base",
+      2
+    ],
+    "black trousers": [
+      "base",
+      2
+    ],
+    "sneakers": [
+      "base",
+      1
+    ],
+    "red t-shirt": [
+      "variants",
+      4
+    ],
+    "blue jeans": [
+      "base",
+      0
+    ],
+    "black shoes": [
+      "base",
+      2
+    ],
+    "navy t-shirt": [
+      "variants",
+      1
+    ],
+    "khaki shorts": [
+      "variants",
+      1
+    ],
+    "white sneakers": [
+      "base",
+      1
+    ],
+    "blue sweatshirt": [
+      "variants",
+      0
+    ],
+    "canvas sneakers": [
+      "base",
+      1
+    ],
+    "white work shirt": [
+      "variants",
+      2
+    ],
+    "charcoal chinos": [
+      "variants",
+      2
+    ],
+    "brown leather shoes": [
+      "variants",
+      2
+    ],
+    "white formal shirt": [
+      "base",
+      2
+    ],
+    "black formal trousers": [
+      "base",
+      2
+    ],
+    "black leather shoes": [
+      "base",
+      2
+    ],
+    "casual date shirt": [
+      "variants",
+      5
+    ],
+    "dark jeans": [
+      "variants",
+      4
+    ],
+    "party shirt": [
+      "variants",
+      3
+    ],
+    "black jeans": [
+      "variants",
+      0
+    ],
+    "sport training shirt": [
+      "base",
+      4
+    ],
+    "running shorts": [
+      "base",
+      4
+    ],
+    "running shoes": [
+      "base",
+      4
+    ],
+    "wedding suit jacket": [
+      "base",
+      3
+    ],
+    "wedding suit trousers": [
+      "base",
+      3
+    ],
+    "polished leather shoes": [
+      "base",
+      3
+    ],
+    "linen beach shirt": [
+      "base",
+      5
+    ],
+    "linen beach shorts": [
+      "variants",
+      5
+    ],
+    "leather sandals": [
+      "base",
+      5
+    ]
+  }
+}

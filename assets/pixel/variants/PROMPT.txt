@@ -1,0 +1,16 @@
+Use case: precise-object-edit. Edit this production pixel doll atlas to produce distinct garment variants. Keep canvas EXACTLY 1536x1024, all 12 characters in the EXACT current positions, same faces, hair, skin tones, anatomy, pose and pixel-art rendering. Do NOT move or rescale bodies. Keep identical pale pink background. Only change the clothing as listed below. Rich fabric detail with crisp pixel outlines. No text.
+TOP ROW women, from LEFT to RIGHT:
+1. Pink long-sleeved cable-knit sweater (NOT a mint blouse), ivory ankle-length skirt with visible small pink/green floral print, beige low heels.
+2. BRIGHT RED short-sleeved crew-neck T-SHIRT (clearly saturated red), BLACK denim jeans, black-and-white canvas sneakers.
+3. CREAM/ivory collared blouse, deep NAVY BLUE tailored trousers, BLACK leather loafers.
+4. RED short party dress, flared skirt ending at knees (clearly red, not pink), silver high heels. Keep feet exactly aligned to original positions.
+5. Mint athletic T-shirt, black leggings, black running sneakers.
+6. IVORY WHITE long wedding gown, fitted bodice, full skirt to the ankles, ivory high heels. Not yellow, not a sundress.
+BOTTOM ROW men, LEFT to RIGHT:
+1. BLUE long-sleeved sweatshirt with ribbed cuffs and no cable-knit texture, BLACK denim jeans, black leather shoes.
+2. NAVY BLUE short-sleeved crew-neck T-shirt, KHAKI shorts ending at knees, white sneakers.
+3. White long-sleeved work shirt, charcoal chinos, BROWN leather shoes.
+4. Burgundy button-up party shirt (no jacket or tie), black jeans, black leather shoes.
+5. BRIGHT RED short-sleeved crew-neck T-SHIRT (saturated red, not blue), dark indigo jeans to ankles, grey running sneakers.
+6. Light blue casual button-up shirt with rolled sleeves, cream linen shorts to knees, brown sandals.
+Every color instruction is critical: the purpose is that red and white T-shirts, black and blue jeans, pink sweaters and mint blouses are visibly different. Preserve the precise body alignment and pale background of the input.
